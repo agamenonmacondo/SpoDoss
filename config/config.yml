@@ -1,4 +1,4 @@
-song_link: [""]
+song_link: ["https://open.spotify.com/track/3ZjKPdPmBm2rHQEZgVQiCA?si=fa3a996f76874160"]
 min_wait_max_wait: [150, 200]
 program_sleep_delay: 5
 retry_bad_procces: false
